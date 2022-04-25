@@ -1,0 +1,203 @@
+{"characters":[
+	{
+		"name": "Atsumu",
+		"text": "Ya scrub, drink some water.",
+		"image": "https://i.pinimg.com/originals/d3/c1/ad/d3c1ad0c89b5f95da7a4ae8680e99803.jpg",
+		"bonkimage": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/haikyu-osamu-miya-amy-h-bise.jpg",
+		"praiseimage":"https://i.pinimg.com/originals/6e/2e/a5/6e2ea5f58d5ad6f0439abcf4f43cd23f.jpg",
+		"sleepimage":"https://i.pinimg.com/originals/ef/eb/9e/efeb9e0b402cd24911208865f05bade5.jpg"
+	},
+	{
+		"name": "Suna",
+		"text": "This is Suna, his posture is bad. Don't be like Suna, deshrimpify yourself.",
+		"image": "https://i.pinimg.com/originals/62/b7/0a/62b70a4722a3dfea1f217a9abd4329c3.png",
+		"bonkimage": "https://i.pinimg.com/originals/cb/60/04/cb6004c9e680dace8f19b6fc9a695648.jpg",
+		"praiseimage":"https://64.media.tumblr.com/ca6e87f998ef208940a064b61a3cac80/9db9f1aebe8c7fd8-14/s1280x1920/2072e7756639da0ceef5e4f48d4f6114bcf4e9e0.jpg",
+		"sleepimage": "https://haikyuu.store/wp-content/uploads/2021/02/unnamed-file.png"
+	},
+	{
+		"name": "Osamu",
+		"text": "Hey darlin' don't forget to grab some water, okay?",
+		"image": "https://pbs.twimg.com/profile_images/1444150563042701313/JmbhmVC6_400x400.jpg",
+		"bonkimage": "https://i.pinimg.com/originals/98/27/3e/98273ec6f40eaf58d1da11e9b7762db6.jpg",
+		"praiseimage":"https://i.imgur.com/H0MTGbL.jpeg",
+		"sleepimage": "https://img.wattpad.com/story_parts/840332372/images/165ebe7d16611b26237291480388.png"
+	},
+	{
+		"name": "Hinata",
+		"text": "STAND UP! STRETCH YOUR BACK! SIT UP STRAIGHT! CHEERING YOU ON!",
+		"image": "https://data.whicdn.com/images/344223698/original.jpg",
+		"praiseimage":"https://i.pinimg.com/originals/02/e0/ed/02e0ed5f7fac908fbf574f16e061aa0f.jpg",
+		"bonkimage":"https://i.pinimg.com/736x/c2/e0/13/c2e0139619f88f43ee7206e7a08f65a2.jpg",
+		"sleepimage":"https://i.pinimg.com/originals/da/c3/14/dac314b6c08b6875c91f8ff3fd2cb98f.jpg"
+	},	
+    {
+		"name": "Komori",
+		"text": "Hey sunshine, did you drink something already? No? Then it's about time!",
+		"image": "https://static.wikia.nocookie.net/4b63c8e8-5f47-4e69-b544-e6e13ce544d0",
+		"praiseimage":"https://i.pinimg.com/originals/e6/ad/cc/e6adccf3f914a13ae1eeeb2ce9b8623f.jpg",
+		"bonkimage":"https://i.pinimg.com/originals/e6/ad/cc/e6adccf3f914a13ae1eeeb2ce9b8623f.jpg",
+		"sleepimage":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxOD_ASGuReOicOL12qKQamHfwkDNkxAJve3OBTJklGXGF45VT"
+	},
+	{
+		"name": "Futakuchi",
+		"text": "Relax your shoulders and sit up straight! That's good, you are doing amazing!",
+		"image": "https://i.pinimg.com/736x/a9/00/c0/a900c01344f2baf9e60e2b838c49697e.jpg",
+		"praiseimage":"https://i.imgur.com/VbAJIct.png",
+		"bonkimage":"https://i.ytimg.com/vi/iPZWReAL1VQ/maxresdefault.jpg",
+		"sleepimage":"https://i.pinimg.com/originals/4f/47/84/4f4784fbcd3e745e4798fcbafdbee687.jpg"
+	},
+    {
+		"name": "Kiyoomi",
+		"text": "Drink.",
+		"image": "https://64.media.tumblr.com/da1b797296b451482344a0d7b789e7db/422c41fe31563371-ee/s1280x1920/6980c5e7f14770f645b29535c5ecf2b5d282965e.jpg",
+		"praiseimage":"https://i.pinimg.com/originals/86/44/11/864411301cacf0f5b3c17ec75728f3aa.jpg",
+		"bonkimage": "https://i.pinimg.com/originals/fd/66/ff/fd66ff4cdddd57ac3e746371b7c5486c.jpg",
+		"sleepimage": "https://i.pinimg.com/originals/86/2f/ed/862feddaa1f3d7a48e64e83d2f990ead.jpg"
+	},    
+	{
+		"name": "Yaku",
+		"text": "I hope you are hydrated and sit up straight, right now! If not, well you know what to do.",
+		"image": "https://64.media.tumblr.com/aee19ba7e2a240845a2cd59ce77da970/9417ecd702a493d2-ce/s1280x1920/63ffa6c918dca30df6b6ae14f927e9d5dcb61e60.png",
+		"praiseimage":"https://i.pinimg.com/736x/45/c3/c6/45c3c65a8de3197e9a0a3ed69509b894.jpg",
+		"bonkimage":"https://static.wikia.nocookie.net/fd741f54-14c9-40a0-909d-327a5195ec0e",
+		"sleepimage":"https://pbs.twimg.com/media/Ef3gEk3UwAIU_28.jpg:large"
+	},
+    {
+		"name": "Akaashi",
+		"text": "Y/N-san please drink some water.",
+		"image": "https://64.media.tumblr.com/2ca8646556c624a91822c73d8503cb7c/e302a3c806484fca-e4/s1280x1920/cf853f18274d71310f9c1ad757081ffe1b28ecee.jpg",
+		"praiseimage":"https://preview.redd.it/1lczmzhm7zs41.jpg?width=640&crop=smart&auto=webp&s=576ca933cd1ea7a5654826f2735194a656680d7c",
+		"bonkimage":"https://64.media.tumblr.com/a66d4ece8e34478301d1495f075c3fa1/37bb62b64f45e41e-87/s1280x1920/2b704c505c10f4025e86d799fb726423b2d40de9.png",
+		"sleepimage":"https://i1.sndcdn.com/artworks-PsrH7SbHWtajW4oV-QfH1nQ-t500x500.jpg"
+	},
+    {
+		"name": "Sugawara",
+		"text": "Senpai has some exercices for you to improve your posture, let's do them together, shall we?",
+		"image": "https://i.pinimg.com/originals/ad/a1/a3/ada1a37f946d212422e4850a15e4b135.jpg",
+		"praiseimage":"https://pbs.twimg.com/media/EdtEjOtXoAARkRj?format=jpg&name=medium",
+		"bonkimage":"https://i.pinimg.com/564x/58/bb/74/58bb7413b3f5267e86e7b0b22400b9a1.jpg",
+		"sleepimage":"https://i.pinimg.com/564x/4b/33/ab/4b33abc39c8c6be4d814d17e1dceb83a.jpg"
+	},
+    {
+		"name": "Kuroo",
+		"text": "Don't be a Hydrophobe, go get some H2O!",
+		"image": "https://i.pinimg.com/564x/9c/1b/5c/9c1b5c589106795a135612257eba964e.jpg",
+		"praiseimage":"https://i.pinimg.com/564x/4a/d4/9a/4ad49a92ba1d4f0d3a94f8539eb2dc4a.jpg",
+		"bonkimage":"https://i.pinimg.com/564x/ed/70/aa/ed70aaa916248291d7a8f9e663fe748a.jpg",
+		"sleepimage":"https://i.pinimg.com/originals/e6/7f/ac/e67fac6bb101c6f947a468dc677a5bc6.jpg"
+	},
+	{
+		"name": "Oikawa",
+		"text": "Stand up, stretch your legs, sit up straight, you are doing so well my love.",
+		"image": "https://i.pinimg.com/736x/80/17/a9/8017a930b85312f1f48d16ee1e6eada6.jpg",
+		"praiseimage":"https://i.pinimg.com/564x/f8/ac/02/f8ac020a666b0d2b2055b95fddf620d9.jpg",
+		"bonkimage":"https://i.pinimg.com/564x/69/04/f7/6904f7306ef4dbb6d7a2c2862a0b8310.jpg",
+		"sleepimage":"https://i.pinimg.com/564x/5a/a5/86/5aa586526c87d318d24d2a3f50d1e54f.jpg"
+	},
+	{
+		"name": "Kageyama",
+		"text": "Don't forget to drink water, boke!",
+		"image": "https://i1.sndcdn.com/avatars-000102412999-slpplf-t500x500.jpg",
+		"praiseimage":"https://wallpapercave.com/uwp/uwp335005.jpeg",
+		"bonkimage":"https://i.pinimg.com/originals/80/e9/06/80e90679e4e5e16b1c5ea5854d2c3585.png",
+		"sleepimage":"https://haikyuu.store/wp-content/uploads/2021/02/5-unique-things-you-did-not-know-about-kageyama-tobio-1024x576.png"
+	},
+	{
+		"name": "Bokuto",
+		"text": "Hey, Hey, Hey, if you read this, go do some stretches and straighten up your back!",
+		"image": "https://i.pinimg.com/736x/1f/cc/90/1fcc907cb5cc92f8961ad05a8c2b2b17.jpg",
+		"praiseimage":"https://i.pinimg.com/564x/c9/40/7f/c9407f83d5f019ea611be8c98f1df914.jpg",
+		"bonkimage":"https://i.pinimg.com/564x/b5/fa/e8/b5fae881d77e9df1bcee9f5b4a656ca8.jpg",
+		"sleepimage":"https://i.pinimg.com/564x/c4/45/43/c445439beb37b519deacdbb047a66869.jpg"
+	},
+	{
+		"name": "Ushijima",
+		"text": "You should have come to Shiratorizawa, we have the best water here.",
+		"image": "https://64.media.tumblr.com/17b766ee5c1015170dc58c5e0c14bf4e/3fa1edd96a43d882-97/s1280x1920/d98964acbf01c36a8d3f943dc90f6d0d8616f11f.jpg",
+		"praiseimage":"https://i.pinimg.com/564x/77/cd/33/77cd339488220017b3fc5128c3ff35c1.jpg",
+		"bonkimage":"https://i.pinimg.com/564x/8d/bc/81/8dbc813c0299b88e4ac43deaf294e88d.jpg",
+		"sleepimage":"https://i.pinimg.com/564x/ac/45/00/ac4500a83464c218fc8cf9cc124982c8.jpg"
+	},
+	{
+		"name": "Kita",
+		"text": "Aren't you amazing? Drinking that glass of water, right now.",
+		"image": "https://64.media.tumblr.com/6338d4f1dd237b983da1422705e031f3/07cee5b9a5955686-01/s540x810/12e6437ea4bc81b1a3b0bfdef7ce5ef5ea741fa1.pnj",
+		"praiseimage":"https://i.pinimg.com/originals/80/bf/4b/80bf4b19f2ac6bafb773f9942d7d8be5.png",
+		"bonkimage":"https://i.pinimg.com/originals/bb/90/92/bb909201acf29492cbb33412e9845a27.jpg",
+		"sleepimage":"https://i.pinimg.com/originals/0f/f8/b9/0ff8b97f0497bf94061144c091b36318.jpg"
+	},
+	{
+		"name": "Iwaizumi",
+		"text": "Do some stretches and then we can go on a date.",
+		"image": "https://i.pinimg.com/564x/06/85/6d/06856d97746935a21a94bd1901547d64.jpg",
+		"praiseimage":"https://i.pinimg.com/564x/1a/3a/6e/1a3a6ebd2d19f6972f0a3db1757b6313.jpg",
+		"bonkimage":"https://i.pinimg.com/564x/c2/f8/40/c2f8405b9e4d849da50c8c1cfe8781ae.jpg",
+		"sleepimage":"https://i.pinimg.com/736x/b3/c4/8a/b3c48a36d71c2fcabf60f1fb2c8d2d4d.jpg"
+	},
+	{
+		"name": "Saeko",
+		"text": "I'm only here for the SIMPS. Better drink some water to quench that thirst.",
+		"image": "http://pm1.narvii.com/8085/9a0ec3a240824dc431785ad101222f24d8dc86f9r1-555-523v2_uhq.jpg",
+		"praiseimage":"https://i.pinimg.com/564x/94/65/5e/94655ed39a493981725633d253ba00bc.jpg",
+		"bonkimage":"https://i.pinimg.com/564x/61/a2/1f/61a21fe2ce4aa04abe53c288d49bde0e.jpg",
+		"sleepimage":"https://i.pinimg.com/564x/f6/da/df/f6dadf9542af5be24702272f096f4c69.jpg"
+	},
+	{
+		"name": "Nishinoya",
+		"text": "CHALLENGE YOURSELF! YOUR BODY IS A TEMPLE! SIT UP STRAIGHT!",
+		"image": "https://i.pinimg.com/564x/a8/86/ed/a886eda6d174e3a9f0c9b3e4ee4382e5.jpg",
+		"praiseimage":"https://i.pinimg.com/564x/42/cc/7f/42cc7f1663f0951fa07696749876a87a.jpg",
+		"bonkimage":"https://i.pinimg.com/564x/82/80/a2/8280a246cd193943382696a12efe9dd7.jpg",
+		"sleepimage":"https://i.pinimg.com/564x/52/2f/0e/522f0ea23466719706d8ebac12b89ec3.jpg"
+	},
+	{
+		"name": "Fukunaga",
+		"text": "If you don't drink some water now, I will dump a whole can of water over you!",
+		"image": "https://i.pinimg.com/736x/cc/bc/65/ccbc65b8bb679b3fa49bdc38f08204cd.jpg",
+		"praiseimage":"https://i.pinimg.com/564x/49/16/b6/4916b6ad5bba0e79c150bc18a627fcde.jpg",
+		"bonkimage":"https://i.pinimg.com/564x/d5/e8/ff/d5e8ff239650ec4f2c1d847c977fe97a.jpg",
+		"sleepimage":"https://i.pinimg.com/564x/f5/f1/43/f5f1437070ad920069529d1ad03d3e1f.jpg"
+	},
+	{
+		"name": "Asahi",
+		"text": "Stretch your back, you are doing great!",
+		"image": "https://preview.redd.it/rxldtrzmfv171.png?width=400&format=png&auto=webp&s=6a1131665c5288a3a58df3af4c1fd708bac6c5e3",
+		"praiseimage":"https://64.media.tumblr.com/f773e927b182ef11b5c1821acb4b4a9d/75c0f9d09d761b71-dd/s640x960/19e512f698f0da15aa604eaa960288a87338255c.jpg",
+		"bonkimage":"https://i.pinimg.com/564x/2f/11/6c/2f116c1ca2a35ef0ed3903d971ca6c4a.jpg",
+		"sleepimage":"https://i.pinimg.com/564x/79/b2/fb/79b2fb9caea2655377bd0b09100ded1c.jpg"
+	},
+	{
+		"name": "Tsukishima",
+		"text": "Tsk, can't even drink a cup of water? Pathetic.",
+		"image": "https://i.pinimg.com/originals/fc/73/96/fc7396d93147b827e8681516d6bc056a.jpg",
+		"praiseimage":"https://pbs.twimg.com/media/D3tSTJdU8AEoYuY?format=jpg&name=small",
+		"bonkimage":"https://i.pinimg.com/564x/7f/83/f1/7f83f114a0d11705197bbf4ddfb02924.jpg",
+		"sleepimage":"https://i.pinimg.com/564x/b5/91/c1/b591c1acf6fb9add404082266cfb3164.jpg"
+	},
+	{
+		"name": "Semi",
+		"text": "Sit up straight and don't forget to stretch your legs as well!",
+		"image": "https://i.pinimg.com/564x/20/37/8c/20378cb2ff916073671742836f2d4c6e.jpg",
+		"praiseimage":"https://i.pinimg.com/564x/8a/97/08/8a9708d2b563f86ca088c5872ec6d46b.jpg",
+		"bonkimage":"https://i.pinimg.com/564x/53/d0/dd/53d0dd4bfb46ef863b6cbaea186fe56c.jpg",
+		"sleepimage":"https://i.pinimg.com/originals/1e/43/0b/1e430b32c4759b16dcbda8c88912a94a.jpg"
+	},
+	{
+		"name": "Aran",
+		"text": "Drink some water and never forget that you are valid and appreciated!",
+		"image": "https://i.pinimg.com/736x/07/06/3a/07063acab0294315fe31b09673b9a0d4.jpg",
+		"praiseimage":"https://i.pinimg.com/564x/f6/72/d9/f672d971b775f96016136f0b28493916.jpg",
+		"bonkimage":"https://i.pinimg.com/564x/fd/d9/ea/fdd9ea2aeaf2404f02a5e8423a3dfc78.jpg",
+		"sleepimage":"https://i.pinimg.com/736x/07/06/3a/07063acab0294315fe31b09673b9a0d4.jpg"
+	},
+	{
+		"name": "Meian",
+		"text": "Be good and sit up straight, yeah?",
+		"image": "https://pbs.twimg.com/media/FRoUFmvWYAY_gHC?format=jpg&name=small",
+		"praiseimage":"https://pbs.twimg.com/media/FRoUFmvWYAY_gHC?format=jpg&name=small",
+		"bonkimage":"https://64.media.tumblr.com/5e34a0a08da7a203d9987222c3e57689/f67279c8e2bde522-43/s540x810/3f078d3fcb9e3eb62885d7b7f763fa7855ca8a05.jpg",
+		"sleepimage":"https://pbs.twimg.com/media/FRoUFmvWYAY_gHC?format=jpg&name=small"
+	}
+]
+}
